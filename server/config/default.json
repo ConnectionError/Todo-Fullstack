@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Neo:admin@cluster0.biocc.mongodb.net/todoApp?retryWrites=true&w=majority",
+    "jwtSecret":"donttellanyone"
+}
